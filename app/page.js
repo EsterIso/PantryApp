@@ -126,7 +126,7 @@ export default function Home() {
         alignItems={'center'}
         gap={2}
         sx={{
-          backgroundImage: `url(${darkMode ? '/image/background-dark.png' : '/image/background-light.png'})`,
+          backgroundImage: `url(${darkMode ? '/image/background-dark.png' : '/image/background.png'})`,
           backgroundSize: 'cover',
           backgroundRepeat: 'no-repeat',
           backgroundAttachment: 'fixed',
