@@ -1,10 +1,10 @@
-body {
+/*body {
   background-image: url('/image/background.png');
-  background-size: cover; /* Ensure the image covers the entire page */
-  background-repeat: no-repeat; /* Prevent the image from repeating */
-  background-attachment: fixed; /* Keep the background fixed during scrolling */
-  background-position: center center; /* Center the image */
-}
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-position: center center; 
+}*/
 * {
   box-sizing: border-box;
   padding: 0;
